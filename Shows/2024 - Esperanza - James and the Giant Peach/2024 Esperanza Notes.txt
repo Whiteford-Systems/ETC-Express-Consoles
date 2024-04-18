@@ -1,0 +1,47 @@
+Cues
+1	Focus Lights
+2	House
+3	Blackout
+4	Enters through curtain
+5	Curtain opens
+6	Blackout 	After song
+7	Bedroom (spot)
+8	Parents Center
+9	Chaos
+10	Dramatic center
+11	James wakes Up
+12	Song starts
+13	After song
+14	James Leaves
+15	Intro song (spot)
+16	City of Dover
+30	James arrives at Dover
+31	Song about James moving
+32	Blackout
+33	Scene start (no spot)
+34	Song start afters people leave
+35	After song
+36	Song starts
+37	After song (Discover peach)
+37.1	Peach grows
+38	Song starts (About peach growing and success)
+39	After song (no spot)
+40	Curtains close (spot)
+41	Curatin opens (no spot)
+42	Peach starts rolling (spot narrator?) (flashing effect for rolling)
+43	After song (no spot) and song "Floating Along"
+44	After song
+45	Reprise
+46	Blackout
+47	Intermission
+48	Blackout
+49	Enter through curtain (no spot)
+50	Chase starts
+51	Chorus comes out
+52	Blackout
+53	Dream sequence (no spot)
+54	Critters come out
+55	Song parents are with you (spot)
+
+
+
