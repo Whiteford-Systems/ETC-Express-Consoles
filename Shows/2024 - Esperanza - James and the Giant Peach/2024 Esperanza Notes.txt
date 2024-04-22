@@ -1,47 +1,103 @@
 Cues
+
+FOCUS
 1	Focus Lights
+
+HOUSE
 2	House
-3	Blackout
-4	Enters through curtain
-5	Curtain opens
-6	Blackout 	After song
-7	Bedroom (spot)
-8	Parents Center
-9	Chaos
-10	Dramatic center
-11	James wakes Up
-12	Song starts
-13	After song
-14	James Leaves
+2.1	Overture
+3	Blackout (Music stinger after overture ends)
+
+"Right Before Your Eyes"
+4	Enters through curtain (spot)
+5	Curtain opens (no spot)
+6	Blackout 	After song (no spot)
+
+SCENE 1 - Painswick Orphanage
+7	Bedroom (no spot)
+8	Parents Center (no spot)
+9	Chaos (Zoo Animals) (no spot)
+11	James wakes Up (no spot)
+
+"On Your Way Home"
+12	Song starts (Spot) (James starts singing)
+13	Nurse Enters - After song (no spot)
+
+"Right Before Your Eyes (Reprise #1)"
+14	James Leaves (no spot)
 15	Intro song (spot)
 16	City of Dover
-30	James arrives at Dover
-31	Song about James moving
+
+"Property of Spiker and Sponge"
+
+17	Police come out
+18	S&S stand up? (Song picks back up)
+
 32	Blackout
-33	Scene start (no spot)
-34	Song start afters people leave
-35	After song
-36	Song starts
-37	After song (Discover peach)
-37.1	Peach grows
-38	Song starts (About peach growing and success)
-39	After song (no spot)
-40	Curtains close (spot)
-41	Curatin opens (no spot)
-42	Peach starts rolling (spot narrator?) (flashing effect for rolling)
-43	After song (no spot) and song "Floating Along"
+
+"Right Before Your Eyes (Reprise #2)"
+33	S&S and James CCS, Scene starts (no spot) (B71) (Song finishes)
+33.1 Spider
+33.2 After spider
+
+34	S&S leave, Song starts after people leave (spot)
+35	After song (James trying to cut down tree) (no spot)
+
+"Shake It Up"
+36	Song starts (B79) (no spot)
+36.1 Thunder (B101) (After song when James drops potion) (no spot)
+37	After song (Discover peach) (Follows previous cue) (no spot)
+37.1	Peach grows (B101) (no spot)
+
+"There's Money On That Tree"
+38	Song starts (About peach growing and success) (B105) (no spot)
+
+SCENE #5 - Spiker and Sponge's Garden
+39	After song (no spot) (B125)
+
+"Middle of the Moment?"
+40	Curtains close (spot) (B127)
+41	Curtain opens (spot)
+41.1 After song (no spot)
+42	Peach starts rolling (no spot) (flashing effect for rolling)
+43	After song (no spot) 
+
+"Floating Along"
+43.1 Floating Along (no spot)
 44	After song
+
+"Floating Along"
 45	Reprise
 46	Blackout
+
+INTERMISSION
 47	Intermission
 48	Blackout
-49	Enter through curtain (no spot)
-50	Chase starts
-51	Chorus comes out
+
+49	S&S enter SL, SR (no spot)
+49.1	Song Starts
 52	Blackout
 53	Dream sequence (no spot)
-54	Critters come out
+54	James wakes up
 55	Song parents are with you (spot)
+56  James and friends move SL
+57 James and friends move back Cues (no spot)
+58 After song
+59 Curtain closes (blackout)
+60 Ladahlord comes out
+61	S&S sit down SL (no spot)
+62	"I Got You"
+63	After song (no spot)
+64	Blackout (Leave stage)
+65	Curtains Open (James on peach) (no spot)
+66 Sharks come out (music stinger) (no spot)
+67 "Plump and Juicy"? (spot)
+68  After song (no spot)
+69	Enter NYC (no spot)
+70	After song
+71	Song (epilogue, last song)
 
+CURTAIN CALL
+73	Curtain Call
 
 
