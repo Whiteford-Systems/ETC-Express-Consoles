@@ -31,6 +31,7 @@ SCENE 1 - Painswick Orphanage
 "Property of Spiker and Sponge"
 
 17	Police come out
+17.1	S&S sit down
 18	S&S stand up? (Song picks back up)
 
 32	Blackout
